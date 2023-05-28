@@ -1,11 +1,11 @@
 import React from "react"
 import { useState } from "react"
 import { BrowserRouter, Route, Routes } from "react-router-dom"
-import Footer from "./components/Footer/Footer"
+// import Footer from "./components/Footer/Footer"
 import Footer1 from "./components/Footer/Footer1"
 import Home from "./components/Home/Home"
 import Home1 from "./components/Home/Home1"
-import Navbar from "./components/Navbar/Navbar"
+// import Navbar from "./components/Navbar/Navbar"
 import Navbar1 from "./components/Navbar/Navbar1"
 import Mint from "./components/Mint/Mint"
 const App = () => {

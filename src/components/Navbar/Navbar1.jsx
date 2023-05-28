@@ -42,10 +42,10 @@ const Navbar1 = ({ mode, setMode }) => {
             </div>
           </div>
           <div className="nav-12 flex items-center">
-            <NavLink>Home</NavLink>
-            <NavLink>Lore</NavLink>
+            <NavLink to="/">Home</NavLink>
+            <NavLink to="/">Lore</NavLink>
             <NavLink to="/mint">Mint</NavLink>
-            <NavLink>Blog</NavLink>
+            <NavLink to="/">Blog</NavLink>
             <button>Pitch Deck</button>
             <img src="/images/q3.png" alt="" />
           </div>
